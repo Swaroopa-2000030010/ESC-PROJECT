@@ -1,5 +1,4 @@
-# ESC-PROJECT
-It is my user story
+# ESC-PROJECt
 swaroopa
 bhuvana
 alekhya
